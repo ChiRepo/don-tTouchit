@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chinmayc/Documents/C Projects/start'
+relocations:     []
+...
